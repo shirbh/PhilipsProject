@@ -1,0 +1,30 @@
+.cell-wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  align-content: center;
+}
+
+.shifts {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  padding-top: 25px;
+}
+
+.shift-button {
+  justify-self: center;
+  margin: 3px;
+  width: 100%;
+}
+
+.shift-button-no {
+  justify-self: center;
+  margin: 3px;
+  background-color: grey;
+  width: 100%;
+}
+
+.dayNumber-wrapper {
+  width: fit-content;
+  padding: 0px;
+}

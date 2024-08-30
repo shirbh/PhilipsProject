@@ -1,0 +1,17 @@
+.certifications-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.certification-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 16px;
+  color: #333;
+}
+
+.certification-checkbox input[type="checkbox"] {
+  accent-color: #007bff;
+}

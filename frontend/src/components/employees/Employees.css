@@ -1,0 +1,13 @@
+.employees-wrapper {
+  margin-top: 5px;
+  margin-left: 330px;
+}
+
+.add-employee-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  justify-content: flex-end;
+}
